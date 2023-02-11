@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "starŧ": "pnpm -C nuxt-app install && pnpm -C nuxt-app run dev"
+    "start": "pnpm -C nuxt-app install && pnpm -C nuxt-app run dev"
   },
   "keywords": [],
   "author": "",
