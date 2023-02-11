@@ -1,0 +1,7 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "starŧ": "pnpm -C nuxt-app install && pnpm -C nuxt-app run dev"
+  }
+}
